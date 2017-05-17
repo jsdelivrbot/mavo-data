@@ -1,0 +1,9 @@
+{
+	"website": [
+		{
+			"image": "https://cdn.rawgit.com/mrflos/mavo-data/c871b461133ae5c7d37105ba7db2fadc8a585f51/portfolio/images/colibris-oasis.jpg",
+			"name": "Colibris oasis",
+			"@type": "Website"
+		}
+	]
+}
